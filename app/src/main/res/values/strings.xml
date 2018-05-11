@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoAdsApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_host">25.119.205.62</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
